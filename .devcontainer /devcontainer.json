@@ -4,6 +4,6 @@
     "formulahendry.auto-close-tag", // Auto Close Tag
     "ritwickdey.LiveServer", // Live Server
     "eamodio.gitlens", // GitLens
-    "alefragnani.Bookmarks", // Bookmarks
+    "alefragnani.Bookmarks" // Bookmarks
   ]
 }
