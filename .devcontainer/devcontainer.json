@@ -1,9 +1,16 @@
 {
   "name": "Container",
-  "extensions": [
-    "formulahendry.auto-close-tag", // Auto Close Tag
-    "ritwickdey.LiveServer", // Live Server
-    "eamodio.gitlens", // GitLens
-    "alefragnani.Bookmarks" // Bookmarks
-  ]
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.colorTheme": "Default Dark Modern" // Dark Modern
+      },
+      "extensions": [
+        "eamodio.gitlens", // GitLens
+        "alefragnani.Bookmarks", // Bookmarks
+        "formulahendry.auto-close-tag", // Auto Close Tag
+        "ritwickdey.LiveServer" // Live Server
+      ]
+    }
+  }
 }
